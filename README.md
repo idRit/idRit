@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on freelance projects
-- 🌱 I’m currently learning system design and good programming practices
+- 🔭 I’m currently working as a full stack developer at RelifeMS (https://www.linkedin.com/company/relifems/)
+- 🌱 System design and good programming practices is what i strive to perfect!
 - 👯 I’m looking to collaborate on IoT backends, data pipelines, and enterprise applications
 - 🤔 I’m looking for help with cryptography and network security
 - 💬 Ask me about the art of doing nothing 
-- 📫 How to reach me: id_rit@live.com
+- 📫 How to reach me: mritwik369@gmail.com
 - ⚡ Fun fact: You should never put your feet up on a car's dashboard. Airbags go off like small bombs, and they can break both of your legs.
